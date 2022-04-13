@@ -1,0 +1,15 @@
+title: Mithril Pebble of Pig Smiting
+originalAuthor: shananas
+assets:
+- name: msg/jp/tr.bar
+  multi:
+  - name: msg/us/tr.bar
+  - name: msg/uk/tr.bar
+  method: binarc
+  source:
+  - name: tr
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/tr.yml
+      language: en
